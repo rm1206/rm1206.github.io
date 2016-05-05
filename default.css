@@ -294,14 +294,14 @@
 	    color: rgba(255, 255, 255, 0.4);
 	}
 	
-	#copyright {
+	#contact {
 	    overflow: hidden;
 	    padding: 5em 0em;
 	    border-top: 1px solid rgba(255, 255, 255, 0.08);
 	    text-align: center;
 	}
 	
-	#copyright p {
+	#contact p {
 	    letter-spacing: 0.20em;
 	    text-align: center;
 	    text-transform: uppercase;
@@ -309,7 +309,7 @@
 	    color: rgba(255, 255, 255, 0.3);
 	}
 	
-	#copyright a {
+	#contact a {
 	    text-decoration: none;
 	    color: rgba(255, 255, 255, 0.6);
 	}
